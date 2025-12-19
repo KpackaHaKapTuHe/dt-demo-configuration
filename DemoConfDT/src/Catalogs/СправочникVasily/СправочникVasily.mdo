@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6134e1d3-22ec-4dc6-b77d-6b20ba352047">
+  <producedTypes>
+    <objectType typeId="251f752d-7099-408d-9a33-17da5acf5923" valueTypeId="4aafc977-7658-4f21-b8c2-ab5de42e26df"/>
+    <refType typeId="294b52e8-504e-4ea9-8586-fc1db758ddd5" valueTypeId="70dc3dd1-564f-4731-b8d6-db15fc388910"/>
+    <selectionType typeId="76cd8037-9cf0-4487-b874-22dd0d6f53f6" valueTypeId="63a1e92a-7bb2-4183-97ee-5b24e19d7da2"/>
+    <listType typeId="197daf7d-30ad-4168-8a85-d95d738d4396" valueTypeId="09c23689-b555-41ec-b576-c7571acdbacb"/>
+    <managerType typeId="10d28049-a8de-4423-af22-76129a9289be" valueTypeId="15622d14-8716-404d-9a6c-fb642a06ab72"/>
+  </producedTypes>
+  <name>СправочникVasily</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник vasily</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СправочникVasily.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СправочникVasily.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
